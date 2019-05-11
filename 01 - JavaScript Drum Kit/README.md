@@ -1,5 +1,8 @@
+![image info](./asset/done.PNG)
+
 ### Useful websites:
 - Look for key code: http://keycode.info/
+- Emmet Documentation: https://docs.emmet.io/cheat-sheet/
 
 ### What I have learned?
 1. Key events
