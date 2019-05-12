@@ -97,6 +97,8 @@ transition-timing-function: unset;
 ```
 
 - Turn on/off transition for reset transition bug.
+- Transition jumpy on all hands when the degree turned from 360 to 0 degree.
+- It looped around and reset the number.
 
 ```
     function setTransition (e, val) {
