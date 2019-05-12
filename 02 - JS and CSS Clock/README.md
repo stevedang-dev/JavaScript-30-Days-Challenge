@@ -107,3 +107,5 @@ transition-timing-function: unset;
 
     setInterval(setDate, 1000);
 ```
+
+All done! Yaaaaay!

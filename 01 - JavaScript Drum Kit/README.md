@@ -32,3 +32,5 @@ Other types: classList.add/remove/toggle
 2. key.classList.remove('playing');
 3. key.classList.toggle('playing');
 ```
+
+All done! Yaaaaay!
