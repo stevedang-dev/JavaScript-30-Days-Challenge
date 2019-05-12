@@ -64,12 +64,17 @@ transition-timing-function: unset;
 2. JavaScript:
 - document.querySelector
 - `secondHand.style.<css rule> = '';`
+- Select all the hands to add styles later:
 
 ```
     const secondHand = document.querySelector('.second-hand');
     const minHand = document.querySelector('.min-hand');
     const hourHand = document.querySelector('.hour-hand');
+```
 
+- setDate() function set the right degree from 0 - 360 degrees for transform rotation.
+
+```
     function setDate() {
         const now = new Date();
 
@@ -89,8 +94,11 @@ transition-timing-function: unset;
         setTransition(hourHand, hours);
         hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
     }
+```
 
-    // Turn on/off transition for reset transition bug.
+- Turn on/off transition for reset transition bug.
+
+```
     function setTransition (e, val) {
         e.style.transition = (val === 0) ? 'none ': 'all 0.05s cubic-bezier(0.1, 2.7, 0.58, 1)';
     }
