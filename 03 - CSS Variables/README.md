@@ -28,7 +28,7 @@
 img {
     padding: var(--spacing);
     background: var(--base);
-    filter: var(--blur);
+    filter: blur(var(--blur));
 }
 ```
 - NOTES: `filter` is for blurry values.
