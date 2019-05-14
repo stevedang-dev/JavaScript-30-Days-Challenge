@@ -12,7 +12,7 @@ Build 30 things in 30 days with vanilla JavaScript; no frameworks, libraries, et
 1.  [JavaScript Drum Kit](https://github.com/stevedang-dev/JavaScript-30-Days-Challenge/tree/master/01%20-%20JavaScript%20Drum%20Kit) - **Done!**
 2.  [JS + CSS Clock](https://github.com/stevedang-dev/JavaScript-30-Days-Challenge/tree/master/02%20-%20JS%20and%20CSS%20Clock) - **Done!**
 3.  [CSS Variables](https://github.com/stevedang-dev/JavaScript-30-Days-Challenge/tree/master/03%20-%20CSS%20Variables) - **Done!**
-4.  [Array Cardio, Day 1]()
+4.  [Array Cardio, Day 1](https://github.com/stevedang-dev/JavaScript-30-Days-Challenge/tree/master/04%20-%20JavaScript%20Array%20Cardio)
 5.  [Flex Panel Gallery]()
 6.  [Type Ahead]()
 7.  [Array Cardio, Day 2]()
