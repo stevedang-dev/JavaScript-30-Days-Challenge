@@ -3,7 +3,9 @@
 ![image info](./asset/done3.png)
 
 ### Useful websites:
--
+- [Transition](https://www.w3schools.com/css/css3_transitions.asp)
+- [Transform](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [Shadows](https://www.w3schools.com/css/css3_shadows.asp)
 
 ### What I have learned?
 - Flexbox:
@@ -41,7 +43,7 @@ transition:
 	background 0.2s;
 ```
 
-### Source Code:
+### [Source Code:](https://github.com/stevedang-dev/JavaScript-30-Days-Challenge/blob/master/05%20-%20Flex%20Panel%20Gallery/index.html)
 - JavaScript:
 
 ```
